@@ -16,7 +16,7 @@ Want to get your Office 2016 editor looking like the picture above super fast?  
 0. Make sure anything like excel related to the editor is closed.
 
 1. Locate your DLL: should be at `C:\Program Files (x86)\Common Files\microsoft shared\VBA\VBA7.1\VBE7.DLL`
-  1.1 For Office 2021 (365) C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\VBA\VBA7.1
+  1.1 For Office 2021 (365) `C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\VBA\VBA7.1`
    *  Make a copy and rename VBE7orig.DLL just in case you make a mistake.
 
 2. Open the DLL in HxD
